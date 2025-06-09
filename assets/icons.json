@@ -1,0 +1,3593 @@
+[
+    {
+        "name": "accessibility-outline",
+        "tags": [
+            "accessibility",
+            "outline"
+        ]
+    },
+    {
+        "name": "add-circle-outline",
+        "tags": [
+            "add",
+            "circle",
+            "include",
+            "invite",
+            "outline",
+            "plus"
+        ]
+    },
+    {
+        "name": "add-outline",
+        "tags": [
+            "add",
+            "outline"
+        ]
+    },
+    {
+        "name": "airplane-outline",
+        "tags": [
+            "airplane",
+            "outline",
+            "plane"
+        ]
+    },
+    {
+        "name": "alarm-outline",
+        "tags": [
+            "alarm",
+            "clock",
+            "outline",
+            "time"
+        ]
+    },
+    {
+        "name": "albums-outline",
+        "tags": [
+            "albums",
+            "boxes",
+            "outline",
+            "slides",
+            "square"
+        ]
+    },
+    {
+        "name": "alert-circle-outline",
+        "tags": [
+            "!",
+            "alert",
+            "attention",
+            "circle",
+            "exclamation",
+            "notice",
+            "outline",
+            "warning"
+        ]
+    },
+    {
+        "name": "alert-outline",
+        "tags": [
+            "alert",
+            "outline"
+        ]
+    },
+    {
+        "name": "american-football-outline",
+        "tags": [
+            "american",
+            "football",
+            "outline"
+        ]
+    },
+    {
+        "name": "analytics-outline",
+        "tags": [
+            "analytics",
+            "data",
+            "metrics",
+            "outline",
+            "track"
+        ]
+    },
+    {
+        "name": "aperture-outline",
+        "tags": [
+            "aperture",
+            "dark",
+            "images",
+            "levels",
+            "light",
+            "outline",
+            "settings"
+        ]
+    },
+    {
+        "name": "apps-outline",
+        "tags": [
+            "applications",
+            "apps",
+            "outline"
+        ]
+    },
+    {
+        "name": "archive-outline",
+        "tags": [
+            "archive",
+            "email",
+            "outline"
+        ]
+    },
+    {
+        "name": "arrow-back-circle-outline",
+        "tags": [
+            "arrow",
+            "back",
+            "chevron",
+            "circle",
+            "left",
+            "navigation",
+            "outline"
+        ]
+    },
+    {
+        "name": "arrow-back-outline",
+        "tags": [
+            "arrow",
+            "back",
+            "left",
+            "outline"
+        ]
+    },
+    {
+        "name": "arrow-down-circle-outline",
+        "tags": [
+            "arrow",
+            "chevron",
+            "circle",
+            "down",
+            "outline"
+        ]
+    },
+    {
+        "name": "arrow-down-outline",
+        "tags": [
+            "arrow",
+            "down",
+            "outline"
+        ]
+    },
+    {
+        "name": "arrow-forward-circle-outline",
+        "tags": [
+            "arrow",
+            "chevron",
+            "circle",
+            "forward",
+            "navigation",
+            "outline",
+            "right"
+        ]
+    },
+    {
+        "name": "arrow-forward-outline",
+        "tags": [
+            "arrow",
+            "forward",
+            "outline",
+            "right"
+        ]
+    },
+    {
+        "name": "arrow-redo-circle-outline",
+        "tags": [
+            "arrow",
+            "circle",
+            "outline",
+            "redo"
+        ]
+    },
+    {
+        "name": "arrow-redo-outline",
+        "tags": [
+            "arrow",
+            "outline",
+            "redo"
+        ]
+    },
+    {
+        "name": "arrow-undo-circle-outline",
+        "tags": [
+            "arrow",
+            "circle",
+            "outline",
+            "undo"
+        ]
+    },
+    {
+        "name": "arrow-undo-outline",
+        "tags": [
+            "arrow",
+            "outline",
+            "undo"
+        ]
+    },
+    {
+        "name": "arrow-up-circle-outline",
+        "tags": [
+            "arrow",
+            "chevron",
+            "circle",
+            "outline",
+            "up"
+        ]
+    },
+    {
+        "name": "arrow-up-outline",
+        "tags": [
+            "arrow",
+            "outline",
+            "up"
+        ]
+    },
+    {
+        "name": "at-circle-outline",
+        "tags": [
+            "@",
+            "at",
+            "circle",
+            "outline"
+        ]
+    },
+    {
+        "name": "at-outline",
+        "tags": [
+            "at",
+            "outline"
+        ]
+    },
+    {
+        "name": "attach-outline",
+        "tags": [
+            "attach",
+            "outline"
+        ]
+    },
+    {
+        "name": "backspace-outline",
+        "tags": [
+            "backspace",
+            "outline"
+        ]
+    },
+    {
+        "name": "bag-add-outline",
+        "tags": [
+            "add",
+            "bag",
+            "outline"
+        ]
+    },
+    {
+        "name": "bag-check-outline",
+        "tags": [
+            "bag",
+            "check",
+            "outline"
+        ]
+    },
+    {
+        "name": "bag-handle-outline",
+        "tags": [
+            "bag",
+            "handle",
+            "outline"
+        ]
+    },
+    {
+        "name": "bag-outline",
+        "tags": [
+            "bag",
+            "outline"
+        ]
+    },
+    {
+        "name": "bag-remove-outline",
+        "tags": [
+            "bag",
+            "outline",
+            "remove"
+        ]
+    },
+    {
+        "name": "balloon-outline",
+        "tags": [
+            "balloon",
+            "outline"
+        ]
+    },
+    {
+        "name": "ban-outline",
+        "tags": [
+            "ban",
+            "outline"
+        ]
+    },
+    {
+        "name": "bandage-outline",
+        "tags": [
+            "bandage",
+            "outline"
+        ]
+    },
+    {
+        "name": "bar-chart-outline",
+        "tags": [
+            "bar",
+            "chart",
+            "outline"
+        ]
+    },
+    {
+        "name": "barbell-outline",
+        "tags": [
+            "barbell",
+            "exercise",
+            "lifting",
+            "outline",
+            "weight"
+        ]
+    },
+    {
+        "name": "barcode-outline",
+        "tags": [
+            "barcode",
+            "camera",
+            "outline",
+            "reader"
+        ]
+    },
+    {
+        "name": "baseball-outline",
+        "tags": [
+            "baseball",
+            "outline"
+        ]
+    },
+    {
+        "name": "basket-outline",
+        "tags": [
+            "basket",
+            "outline"
+        ]
+    },
+    {
+        "name": "basketball-outline",
+        "tags": [
+            "basketball",
+            "outline"
+        ]
+    },
+    {
+        "name": "battery-charging-outline",
+        "tags": [
+            "battery",
+            "charging",
+            "outline"
+        ]
+    },
+    {
+        "name": "battery-dead-outline",
+        "tags": [
+            "battery",
+            "dead",
+            "outline"
+        ]
+    },
+    {
+        "name": "battery-full-outline",
+        "tags": [
+            "battery",
+            "full",
+            "outline"
+        ]
+    },
+    {
+        "name": "battery-half-outline",
+        "tags": [
+            "battery",
+            "half",
+            "outline"
+        ]
+    },
+    {
+        "name": "beaker-outline",
+        "tags": [
+            "beaker",
+            "flask",
+            "mixture",
+            "outline",
+            "potion"
+        ]
+    },
+    {
+        "name": "bed-outline",
+        "tags": [
+            "bed",
+            "hotel",
+            "outline",
+            "sleep"
+        ]
+    },
+    {
+        "name": "beer-outline",
+        "tags": [
+            "beer",
+            "drink",
+            "eat",
+            "food",
+            "outline"
+        ]
+    },
+    {
+        "name": "bicycle-outline",
+        "tags": [
+            "bicycle",
+            "bike",
+            "exercise",
+            "outline"
+        ]
+    },
+    {
+        "name": "bluetooth-outline",
+        "tags": [
+            "bluetooth",
+            "cloud",
+            "connection",
+            "outline"
+        ]
+    },
+    {
+        "name": "boat-outline",
+        "tags": [
+            "boat",
+            "outline"
+        ]
+    },
+    {
+        "name": "body-outline",
+        "tags": [
+            "body",
+            "outline"
+        ]
+    },
+    {
+        "name": "bonfire-outline",
+        "tags": [
+            "bonfire",
+            "heat",
+            "hot",
+            "outline"
+        ]
+    },
+    {
+        "name": "book-outline",
+        "tags": [
+            "book",
+            "outline",
+            "read"
+        ]
+    },
+    {
+        "name": "bookmark-outline",
+        "tags": [
+            "bookmark",
+            "favorite",
+            "outline",
+            "save",
+            "tag"
+        ]
+    },
+    {
+        "name": "bookmarks-outline",
+        "tags": [
+            "bookmarks",
+            "favorite",
+            "outline"
+        ]
+    },
+    {
+        "name": "bowling-ball-outline",
+        "tags": [
+            "ball",
+            "bowling",
+            "outline"
+        ]
+    },
+    {
+        "name": "briefcase-outline",
+        "tags": [
+            "briefcase",
+            "folder",
+            "organize",
+            "outline"
+        ]
+    },
+    {
+        "name": "browsers-outline",
+        "tags": [
+            "browsers",
+            "outline",
+            "square"
+        ]
+    },
+    {
+        "name": "brush-outline",
+        "tags": [
+            "brush",
+            "outline"
+        ]
+    },
+    {
+        "name": "bug-outline",
+        "tags": [
+            "bug",
+            "develop",
+            "error",
+            "hacker",
+            "outline",
+            "program"
+        ]
+    },
+    {
+        "name": "build-outline",
+        "tags": [
+            "build",
+            "outline"
+        ]
+    },
+    {
+        "name": "bulb-outline",
+        "tags": [
+            "bulb",
+            "outline"
+        ]
+    },
+    {
+        "name": "bus-outline",
+        "tags": [
+            "bus",
+            "outline"
+        ]
+    },
+    {
+        "name": "business-outline",
+        "tags": [
+            "business",
+            "outline"
+        ]
+    },
+    {
+        "name": "cafe-outline",
+        "tags": [
+            "cafe",
+            "coffee",
+            "cup",
+            "outline"
+        ]
+    },
+    {
+        "name": "calculator-outline",
+        "tags": [
+            "arithmetic",
+            "calculator",
+            "math",
+            "outline"
+        ]
+    },
+    {
+        "name": "calendar-clear-outline",
+        "tags": [
+            "calendar",
+            "clear",
+            "outline"
+        ]
+    },
+    {
+        "name": "calendar-number-outline",
+        "tags": [
+            "calendar",
+            "number",
+            "outline"
+        ]
+    },
+    {
+        "name": "calendar-outline",
+        "tags": [
+            "calendar",
+            "date",
+            "month",
+            "outline",
+            "week"
+        ]
+    },
+    {
+        "name": "call-outline",
+        "tags": [
+            "call",
+            "outline",
+            "telephone"
+        ]
+    },
+    {
+        "name": "camera-outline",
+        "tags": [
+            "camera",
+            "image",
+            "outline",
+            "photo"
+        ]
+    },
+    {
+        "name": "camera-reverse-outline",
+        "tags": [
+            "camera",
+            "outline",
+            "reverse"
+        ]
+    },
+    {
+        "name": "car-outline",
+        "tags": [
+            "car",
+            "outline"
+        ]
+    },
+    {
+        "name": "car-sport-outline",
+        "tags": [
+            "car",
+            "outline",
+            "sport"
+        ]
+    },
+    {
+        "name": "card-outline",
+        "tags": [
+            "$",
+            "card",
+            "cash",
+            "credit",
+            "debit",
+            "dollars",
+            "money",
+            "outline",
+            "price",
+            "shopping"
+        ]
+    },
+    {
+        "name": "caret-back-circle-outline",
+        "tags": [
+            "arrow",
+            "back",
+            "caret",
+            "circle",
+            "outline"
+        ]
+    },
+    {
+        "name": "caret-back-outline",
+        "tags": [
+            "arrow",
+            "back",
+            "caret",
+            "left",
+            "outline"
+        ]
+    },
+    {
+        "name": "caret-down-circle-outline",
+        "tags": [
+            "arrow",
+            "caret",
+            "circle",
+            "down",
+            "outline"
+        ]
+    },
+    {
+        "name": "caret-down-outline",
+        "tags": [
+            "arrow",
+            "caret",
+            "down",
+            "outline"
+        ]
+    },
+    {
+        "name": "caret-forward-circle-outline",
+        "tags": [
+            "arrow",
+            "caret",
+            "circle",
+            "forward",
+            "outline",
+            "right"
+        ]
+    },
+    {
+        "name": "caret-forward-outline",
+        "tags": [
+            "arrow",
+            "caret",
+            "forward",
+            "outline",
+            "right"
+        ]
+    },
+    {
+        "name": "caret-up-circle-outline",
+        "tags": [
+            "arrow",
+            "caret",
+            "circle",
+            "outline",
+            "up"
+        ]
+    },
+    {
+        "name": "caret-up-outline",
+        "tags": [
+            "arrow",
+            "caret",
+            "outline",
+            "up"
+        ]
+    },
+    {
+        "name": "cart-outline",
+        "tags": [
+            "cart",
+            "outline"
+        ]
+    },
+    {
+        "name": "cash-outline",
+        "tags": [
+            "$",
+            "cash",
+            "credit",
+            "debit",
+            "dollars",
+            "money",
+            "outline",
+            "price",
+            "shopping"
+        ]
+    },
+    {
+        "name": "cellular-outline",
+        "tags": [
+            "cellular",
+            "outline"
+        ]
+    },
+    {
+        "name": "chatbox-ellipses-outline",
+        "tags": [
+            "chatbox",
+            "ellipses",
+            "outline"
+        ]
+    },
+    {
+        "name": "chatbox-outline",
+        "tags": [
+            "chatbox",
+            "outline"
+        ]
+    },
+    {
+        "name": "chatbubble-ellipses-outline",
+        "tags": [
+            "chatbubble",
+            "ellipses",
+            "outline"
+        ]
+    },
+    {
+        "name": "chatbubble-outline",
+        "tags": [
+            "chatbubble",
+            "outline"
+        ]
+    },
+    {
+        "name": "chatbubbles-outline",
+        "tags": [
+            "chatbubbles",
+            "outline",
+            "talk"
+        ]
+    },
+    {
+        "name": "checkbox-outline",
+        "tags": [
+            "checkbox",
+            "outline"
+        ]
+    },
+    {
+        "name": "checkmark-circle-outline",
+        "tags": [
+            "checkmark",
+            "circle",
+            "outline"
+        ]
+    },
+    {
+        "name": "checkmark-done-circle-outline",
+        "tags": [
+            "checkmark",
+            "circle",
+            "done",
+            "outline"
+        ]
+    },
+    {
+        "name": "checkmark-done-outline",
+        "tags": [
+            "checkmark",
+            "done",
+            "outline"
+        ]
+    },
+    {
+        "name": "checkmark-outline",
+        "tags": [
+            "checkmark",
+            "outline"
+        ]
+    },
+    {
+        "name": "chevron-back-circle-outline",
+        "tags": [
+            "arrow",
+            "back",
+            "chevron",
+            "circle",
+            "left",
+            "outline"
+        ]
+    },
+    {
+        "name": "chevron-back-outline",
+        "tags": [
+            "arrow",
+            "back",
+            "chevron",
+            "left",
+            "outline"
+        ]
+    },
+    {
+        "name": "chevron-collapse-outline",
+        "tags": [
+            "chevron",
+            "collapse",
+            "outline"
+        ]
+    },
+    {
+        "name": "chevron-down-circle-outline",
+        "tags": [
+            "arrow",
+            "chevron",
+            "circle",
+            "down",
+            "outline"
+        ]
+    },
+    {
+        "name": "chevron-down-outline",
+        "tags": [
+            "arrow",
+            "chevron",
+            "down",
+            "outline"
+        ]
+    },
+    {
+        "name": "chevron-expand-outline",
+        "tags": [
+            "chevron",
+            "expand",
+            "outline"
+        ]
+    },
+    {
+        "name": "chevron-forward-circle-outline",
+        "tags": [
+            "arrow",
+            "chevron",
+            "circle",
+            "forward",
+            "outline",
+            "right"
+        ]
+    },
+    {
+        "name": "chevron-forward-outline",
+        "tags": [
+            "arrow",
+            "chevron",
+            "forward",
+            "outline",
+            "right"
+        ]
+    },
+    {
+        "name": "chevron-up-circle-outline",
+        "tags": [
+            "arrow",
+            "chevron",
+            "circle",
+            "outline",
+            "up"
+        ]
+    },
+    {
+        "name": "chevron-up-outline",
+        "tags": [
+            "arrow",
+            "chevron",
+            "outline",
+            "up"
+        ]
+    },
+    {
+        "name": "clipboard-outline",
+        "tags": [
+            "clipboard",
+            "copy",
+            "outline",
+            "paste",
+            "write"
+        ]
+    },
+    {
+        "name": "close-circle-outline",
+        "tags": [
+            "circle",
+            "close",
+            "delete",
+            "outline",
+            "remove"
+        ]
+    },
+    {
+        "name": "close-outline",
+        "tags": [
+            "circle",
+            "close",
+            "delete",
+            "outline",
+            "remove"
+        ]
+    },
+    {
+        "name": "cloud-circle-outline",
+        "tags": [
+            "circle",
+            "cloud",
+            "outline",
+            "storage",
+            "weather",
+            "whether"
+        ]
+    },
+    {
+        "name": "cloud-done-outline",
+        "tags": [
+            "cloud",
+            "done",
+            "outline"
+        ]
+    },
+    {
+        "name": "cloud-download-outline",
+        "tags": [
+            "cloud",
+            "download",
+            "outline",
+            "storage"
+        ]
+    },
+    {
+        "name": "cloud-offline-outline",
+        "tags": [
+            "cloud",
+            "offline",
+            "outline"
+        ]
+    },
+    {
+        "name": "cloud-outline",
+        "tags": [
+            "circle",
+            "cloud",
+            "outline",
+            "storage",
+            "weather",
+            "whether"
+        ]
+    },
+    {
+        "name": "cloud-upload-outline",
+        "tags": [
+            "cloud",
+            "outline",
+            "storage",
+            "upload"
+        ]
+    },
+    {
+        "name": "cloudy-night-outline",
+        "tags": [
+            "cloudy",
+            "night",
+            "outline",
+            "overcast",
+            "weather",
+            "whether"
+        ]
+    },
+    {
+        "name": "cloudy-outline",
+        "tags": [
+            "cloudy",
+            "outline",
+            "overcast",
+            "weather",
+            "whether"
+        ]
+    },
+    {
+        "name": "code-download-outline",
+        "tags": [
+            "code",
+            "develop",
+            "download",
+            "hacker",
+            "outline",
+            "program"
+        ]
+    },
+    {
+        "name": "code-outline",
+        "tags": [
+            "code",
+            "develop",
+            "hacker",
+            "outline",
+            "program"
+        ]
+    },
+    {
+        "name": "code-slash-outline",
+        "tags": [
+            "code",
+            "outline",
+            "slash"
+        ]
+    },
+    {
+        "name": "code-working-outline",
+        "tags": [
+            "code",
+            "develop",
+            "hacker",
+            "outline",
+            "program",
+            "working"
+        ]
+    },
+    {
+        "name": "cog-outline",
+        "tags": [
+            "cog",
+            "gear",
+            "options",
+            "outline",
+            "settings"
+        ]
+    },
+    {
+        "name": "color-fill-outline",
+        "tags": [
+            "color",
+            "fill",
+            "outline"
+        ]
+    },
+    {
+        "name": "color-filter-outline",
+        "tags": [
+            "color",
+            "filter",
+            "outline"
+        ]
+    },
+    {
+        "name": "color-palette-outline",
+        "tags": [
+            "color",
+            "outline",
+            "palette"
+        ]
+    },
+    {
+        "name": "color-wand-outline",
+        "tags": [
+            "color",
+            "outline",
+            "wand"
+        ]
+    },
+    {
+        "name": "compass-outline",
+        "tags": [
+            "compass",
+            "directions",
+            "location",
+            "navigation",
+            "outline"
+        ]
+    },
+    {
+        "name": "construct-outline",
+        "tags": [
+            "construct",
+            "outline"
+        ]
+    },
+    {
+        "name": "contract-outline",
+        "tags": [
+            "contract",
+            "outline"
+        ]
+    },
+    {
+        "name": "contrast-outline",
+        "tags": [
+            "contrast",
+            "dark",
+            "images",
+            "levels",
+            "light",
+            "outline",
+            "settings"
+        ]
+    },
+    {
+        "name": "copy-outline",
+        "tags": [
+            "copy",
+            "duplicate",
+            "outline",
+            "paper"
+        ]
+    },
+    {
+        "name": "create-outline",
+        "tags": [
+            "create",
+            "edit",
+            "outline"
+        ]
+    },
+    {
+        "name": "crop-outline",
+        "tags": [
+            "crop",
+            "outline"
+        ]
+    },
+    {
+        "name": "cube-outline",
+        "tags": [
+            "box",
+            "container",
+            "cube",
+            "outline",
+            "square"
+        ]
+    },
+    {
+        "name": "cut-outline",
+        "tags": [
+            "cut",
+            "outline"
+        ]
+    },
+    {
+        "name": "desktop-outline",
+        "tags": [
+            "desktop",
+            "outline"
+        ]
+    },
+    {
+        "name": "diamond-outline",
+        "tags": [
+            "diamond",
+            "outline"
+        ]
+    },
+    {
+        "name": "dice-outline",
+        "tags": [
+            "dice",
+            "outline"
+        ]
+    },
+    {
+        "name": "disc-outline",
+        "tags": [
+            "cd",
+            "disc",
+            "outline",
+            "vinyl"
+        ]
+    },
+    {
+        "name": "document-attach-outline",
+        "tags": [
+            "attach",
+            "document",
+            "outline"
+        ]
+    },
+    {
+        "name": "document-lock-outline",
+        "tags": [
+            "document",
+            "lock",
+            "outline"
+        ]
+    },
+    {
+        "name": "document-outline",
+        "tags": [
+            "document",
+            "file",
+            "outline",
+            "paper"
+        ]
+    },
+    {
+        "name": "document-text-outline",
+        "tags": [
+            "document",
+            "outline",
+            "text"
+        ]
+    },
+    {
+        "name": "documents-outline",
+        "tags": [
+            "documents",
+            "outline"
+        ]
+    },
+    {
+        "name": "download-outline",
+        "tags": [
+            "download",
+            "export",
+            "outline"
+        ]
+    },
+    {
+        "name": "duplicate-outline",
+        "tags": [
+            "duplicate",
+            "outline"
+        ]
+    },
+    {
+        "name": "ear-outline",
+        "tags": [
+            "ear",
+            "outline"
+        ]
+    },
+    {
+        "name": "earth-outline",
+        "tags": [
+            "earth",
+            "globe",
+            "outline"
+        ]
+    },
+    {
+        "name": "easel-outline",
+        "tags": [
+            "easel",
+            "outline"
+        ]
+    },
+    {
+        "name": "egg-outline",
+        "tags": [
+            "baby",
+            "bird",
+            "birth",
+            "egg",
+            "outline",
+            "twitter"
+        ]
+    },
+    {
+        "name": "ellipse-outline",
+        "tags": [
+            "circle",
+            "ellipse",
+            "outline"
+        ]
+    },
+    {
+        "name": "ellipsis-horizontal-circle-outline",
+        "tags": [
+            "circle",
+            "ellipsis",
+            "horizontal",
+            "outline"
+        ]
+    },
+    {
+        "name": "ellipsis-horizontal-outline",
+        "tags": [
+            "ellipsis",
+            "horizontal",
+            "outline"
+        ]
+    },
+    {
+        "name": "ellipsis-vertical-circle-outline",
+        "tags": [
+            "circle",
+            "ellipsis",
+            "outline",
+            "vertical"
+        ]
+    },
+    {
+        "name": "ellipsis-vertical-outline",
+        "tags": [
+            "ellipsis",
+            "outline",
+            "vertical"
+        ]
+    },
+    {
+        "name": "enter-outline",
+        "tags": [
+            "enter",
+            "outline"
+        ]
+    },
+    {
+        "name": "exit-outline",
+        "tags": [
+            "exit",
+            "outline"
+        ]
+    },
+    {
+        "name": "expand-outline",
+        "tags": [
+            "expand",
+            "outline"
+        ]
+    },
+    {
+        "name": "extension-puzzle-outline",
+        "tags": [
+            "extension",
+            "outline",
+            "puzzle"
+        ]
+    },
+    {
+        "name": "eye-off-outline",
+        "tags": [
+            "eye",
+            "off",
+            "outline"
+        ]
+    },
+    {
+        "name": "eye-outline",
+        "tags": [
+            "exposed",
+            "eye",
+            "look",
+            "outline",
+            "see",
+            "view"
+        ]
+    },
+    {
+        "name": "eyedrop-outline",
+        "tags": [
+            "eyedrop",
+            "outline"
+        ]
+    },
+    {
+        "name": "fast-food-outline",
+        "tags": [
+            "fast",
+            "food",
+            "outline"
+        ]
+    },
+    {
+        "name": "female-outline",
+        "tags": [
+            "dudette",
+            "female",
+            "girl",
+            "lady",
+            "outline",
+            "woman"
+        ]
+    },
+    {
+        "name": "file-tray-full-outline",
+        "tags": [
+            "file",
+            "full",
+            "outline",
+            "tray"
+        ]
+    },
+    {
+        "name": "file-tray-outline",
+        "tags": [
+            "file",
+            "outline",
+            "tray"
+        ]
+    },
+    {
+        "name": "file-tray-stacked-outline",
+        "tags": [
+            "file",
+            "outline",
+            "stacked",
+            "tray"
+        ]
+    },
+    {
+        "name": "film-outline",
+        "tags": [
+            "film",
+            "outline"
+        ]
+    },
+    {
+        "name": "filter-circle-outline",
+        "tags": [
+            "circle",
+            "filter",
+            "outline"
+        ]
+    },
+    {
+        "name": "filter-outline",
+        "tags": [
+            "filter",
+            "outline"
+        ]
+    },
+    {
+        "name": "finger-print-outline",
+        "tags": [
+            "finger",
+            "outline",
+            "print"
+        ]
+    },
+    {
+        "name": "fish-outline",
+        "tags": [
+            "fish",
+            "outline"
+        ]
+    },
+    {
+        "name": "fitness-outline",
+        "tags": [
+            "fitness",
+            "outline"
+        ]
+    },
+    {
+        "name": "flag-outline",
+        "tags": [
+            "favorite",
+            "flag",
+            "marker",
+            "outline"
+        ]
+    },
+    {
+        "name": "flame-outline",
+        "tags": [
+            "fire",
+            "flame",
+            "heat",
+            "hot",
+            "outline"
+        ]
+    },
+    {
+        "name": "flash-off-outline",
+        "tags": [
+            "flash",
+            "off",
+            "outline"
+        ]
+    },
+    {
+        "name": "flash-outline",
+        "tags": [
+            "flash",
+            "lightning",
+            "outline",
+            "weather",
+            "whether"
+        ]
+    },
+    {
+        "name": "flashlight-outline",
+        "tags": [
+            "flashlight",
+            "outline"
+        ]
+    },
+    {
+        "name": "flask-outline",
+        "tags": [
+            "bubbles",
+            "flask",
+            "mixture",
+            "outline",
+            "potion"
+        ]
+    },
+    {
+        "name": "flower-outline",
+        "tags": [
+            "flower",
+            "outline"
+        ]
+    },
+    {
+        "name": "folder-open-outline",
+        "tags": [
+            "folder",
+            "open",
+            "outline"
+        ]
+    },
+    {
+        "name": "folder-outline",
+        "tags": [
+            "file",
+            "folder",
+            "outline"
+        ]
+    },
+    {
+        "name": "football-outline",
+        "tags": [
+            "football",
+            "outline",
+            "soccer"
+        ]
+    },
+    {
+        "name": "footsteps-outline",
+        "tags": [
+            "footsteps",
+            "outline"
+        ]
+    },
+    {
+        "name": "funnel-outline",
+        "tags": [
+            "funnel",
+            "outline",
+            "sort"
+        ]
+    },
+    {
+        "name": "game-controller-outline",
+        "tags": [
+            "controller",
+            "game",
+            "outline"
+        ]
+    },
+    {
+        "name": "gift-outline",
+        "tags": [
+            "gift",
+            "outline"
+        ]
+    },
+    {
+        "name": "git-branch-outline",
+        "tags": [
+            "branch",
+            "git",
+            "outline"
+        ]
+    },
+    {
+        "name": "git-commit-outline",
+        "tags": [
+            "commit",
+            "git",
+            "outline"
+        ]
+    },
+    {
+        "name": "git-compare-outline",
+        "tags": [
+            "compare",
+            "git",
+            "outline"
+        ]
+    },
+    {
+        "name": "git-merge-outline",
+        "tags": [
+            "git",
+            "merge",
+            "outline"
+        ]
+    },
+    {
+        "name": "git-network-outline",
+        "tags": [
+            "git",
+            "network",
+            "outline"
+        ]
+    },
+    {
+        "name": "git-pull-request-outline",
+        "tags": [
+            "git",
+            "outline",
+            "pull",
+            "request"
+        ]
+    },
+    {
+        "name": "glasses-outline",
+        "tags": [
+            "glasses",
+            "look",
+            "outline",
+            "reading",
+            "see",
+            "steve"
+        ]
+    },
+    {
+        "name": "globe-outline",
+        "tags": [
+            "globe",
+            "internet",
+            "outline",
+            "world"
+        ]
+    },
+    {
+        "name": "golf-outline",
+        "tags": [
+            "golf",
+            "outline"
+        ]
+    },
+    {
+        "name": "grid-outline",
+        "tags": [
+            "grid",
+            "menu",
+            "outline"
+        ]
+    },
+    {
+        "name": "hammer-outline",
+        "tags": [
+            "hammer",
+            "options",
+            "outline",
+            "settings",
+            "tools"
+        ]
+    },
+    {
+        "name": "hand-left-outline",
+        "tags": [
+            "hand",
+            "left",
+            "outline"
+        ]
+    },
+    {
+        "name": "hand-right-outline",
+        "tags": [
+            "hand",
+            "outline",
+            "right"
+        ]
+    },
+    {
+        "name": "happy-outline",
+        "tags": [
+            "fun",
+            "good",
+            "happy",
+            "like",
+            "outline",
+            "smile",
+            "yes"
+        ]
+    },
+    {
+        "name": "hardware-chip-outline",
+        "tags": [
+            "chip",
+            "hardware",
+            "outline"
+        ]
+    },
+    {
+        "name": "headset-outline",
+        "tags": [
+            "headset",
+            "outline"
+        ]
+    },
+    {
+        "name": "heart-circle-outline",
+        "tags": [
+            "circle",
+            "heart",
+            "love",
+            "outline"
+        ]
+    },
+    {
+        "name": "heart-dislike-circle-outline",
+        "tags": [
+            "circle",
+            "dislike",
+            "heart",
+            "love",
+            "outline"
+        ]
+    },
+    {
+        "name": "heart-dislike-outline",
+        "tags": [
+            "dislike",
+            "heart",
+            "love",
+            "outline"
+        ]
+    },
+    {
+        "name": "heart-half-outline",
+        "tags": [
+            "half",
+            "heart",
+            "outline"
+        ]
+    },
+    {
+        "name": "heart-outline",
+        "tags": [
+            "heart",
+            "love",
+            "outline"
+        ]
+    },
+    {
+        "name": "help-buoy-outline",
+        "tags": [
+            "?",
+            "buoy",
+            "help",
+            "outline",
+            "question"
+        ]
+    },
+    {
+        "name": "help-circle-outline",
+        "tags": [
+            "?",
+            "circle",
+            "help",
+            "information",
+            "outline",
+            "question"
+        ]
+    },
+    {
+        "name": "help-outline",
+        "tags": [
+            "help",
+            "outline"
+        ]
+    },
+    {
+        "name": "home-outline",
+        "tags": [
+            "home",
+            "house",
+            "outline"
+        ]
+    },
+    {
+        "name": "hourglass-outline",
+        "tags": [
+            "hourglass",
+            "outline",
+            "time"
+        ]
+    },
+    {
+        "name": "ice-cream-outline",
+        "tags": [
+            "cream",
+            "ice",
+            "outline"
+        ]
+    },
+    {
+        "name": "id-card-outline",
+        "tags": [
+            "card",
+            "id",
+            "outline"
+        ]
+    },
+    {
+        "name": "image-outline",
+        "tags": [
+            "camera",
+            "image",
+            "outline",
+            "photo"
+        ]
+    },
+    {
+        "name": "images-outline",
+        "tags": [
+            "images",
+            "outline",
+            "photo"
+        ]
+    },
+    {
+        "name": "infinite-outline",
+        "tags": [
+            "forever",
+            "infinite",
+            "loop",
+            "outline"
+        ]
+    },
+    {
+        "name": "information-circle-outline",
+        "tags": [
+            "circle",
+            "help",
+            "information",
+            "knowledge",
+            "outline"
+        ]
+    },
+    {
+        "name": "information-outline",
+        "tags": [
+            "information",
+            "outline"
+        ]
+    },
+    {
+        "name": "invert-mode-outline",
+        "tags": [
+            "invert",
+            "mode",
+            "outline"
+        ]
+    },
+    {
+        "name": "journal-outline",
+        "tags": [
+            "journal",
+            "outline"
+        ]
+    },
+    {
+        "name": "key-outline",
+        "tags": [
+            "access",
+            "key",
+            "outline"
+        ]
+    },
+    {
+        "name": "keypad-outline",
+        "tags": [
+            "keypad",
+            "outline",
+            "type"
+        ]
+    },
+    {
+        "name": "language-outline",
+        "tags": [
+            "language",
+            "outline"
+        ]
+    },
+    {
+        "name": "laptop-outline",
+        "tags": [
+            "apple",
+            "laptop",
+            "macbook",
+            "osx",
+            "outline"
+        ]
+    },
+    {
+        "name": "layers-outline",
+        "tags": [
+            "layers",
+            "outline"
+        ]
+    },
+    {
+        "name": "leaf-outline",
+        "tags": [
+            "green",
+            "leaf",
+            "nature",
+            "outline",
+            "plant",
+            "recycle"
+        ]
+    },
+    {
+        "name": "library-outline",
+        "tags": [
+            "library",
+            "outline"
+        ]
+    },
+    {
+        "name": "link-outline",
+        "tags": [
+            "anchor",
+            "attach",
+            "chain",
+            "href",
+            "link",
+            "outline"
+        ]
+    },
+    {
+        "name": "list-circle-outline",
+        "tags": [
+            "circle",
+            "list",
+            "outline"
+        ]
+    },
+    {
+        "name": "list-outline",
+        "tags": [
+            "list",
+            "outline"
+        ]
+    },
+    {
+        "name": "locate-outline",
+        "tags": [
+            "gps",
+            "locate",
+            "maps",
+            "navigate",
+            "outline"
+        ]
+    },
+    {
+        "name": "location-outline",
+        "tags": [
+            "location",
+            "outline"
+        ]
+    },
+    {
+        "name": "lock-closed-outline",
+        "tags": [
+            "closed",
+            "lock",
+            "outline"
+        ]
+    },
+    {
+        "name": "lock-open-outline",
+        "tags": [
+            "lock",
+            "open",
+            "outline"
+        ]
+    },
+    {
+        "name": "log-in-outline",
+        "tags": [
+            "login",
+            "outline",
+            "signin"
+        ]
+    },
+    {
+        "name": "log-out-outline",
+        "tags": [
+            "logout",
+            "outline",
+            "signout"
+        ]
+    },
+    {
+        "name": "magnet-outline",
+        "tags": [
+            "attraction",
+            "magnet",
+            "outline",
+            "sticky"
+        ]
+    },
+    {
+        "name": "mail-open-outline",
+        "tags": [
+            "mail",
+            "open",
+            "outline"
+        ]
+    },
+    {
+        "name": "mail-outline",
+        "tags": [
+            "email",
+            "mail",
+            "outline"
+        ]
+    },
+    {
+        "name": "mail-unread-outline",
+        "tags": [
+            "mail",
+            "outline",
+            "unread"
+        ]
+    },
+    {
+        "name": "male-female-outline",
+        "tags": [
+            "female",
+            "male",
+            "outline"
+        ]
+    },
+    {
+        "name": "male-outline",
+        "tags": [
+            "male",
+            "outline"
+        ]
+    },
+    {
+        "name": "man-outline",
+        "tags": [
+            "boy",
+            "dude",
+            "guy",
+            "male",
+            "man",
+            "outline"
+        ]
+    },
+    {
+        "name": "map-outline",
+        "tags": [
+            "gps",
+            "map",
+            "navigation",
+            "outline",
+            "pin"
+        ]
+    },
+    {
+        "name": "medal-outline",
+        "tags": [
+            "medal",
+            "outline"
+        ]
+    },
+    {
+        "name": "medical-outline",
+        "tags": [
+            "medical",
+            "outline"
+        ]
+    },
+    {
+        "name": "medkit-outline",
+        "tags": [
+            "case",
+            "disease",
+            "firstaid",
+            "health",
+            "medkit",
+            "outline",
+            "sick"
+        ]
+    },
+    {
+        "name": "megaphone-outline",
+        "tags": [
+            "megaphone",
+            "outline"
+        ]
+    },
+    {
+        "name": "menu-outline",
+        "tags": [
+            "menu",
+            "outline"
+        ]
+    },
+    {
+        "name": "mic-circle-outline",
+        "tags": [
+            "circle",
+            "mic",
+            "noise",
+            "outline",
+            "sound",
+            "speaker",
+            "talk"
+        ]
+    },
+    {
+        "name": "mic-off-circle-outline",
+        "tags": [
+            "circle",
+            "mic",
+            "noise",
+            "off",
+            "outline",
+            "sound",
+            "speaker",
+            "talk"
+        ]
+    },
+    {
+        "name": "mic-off-outline",
+        "tags": [
+            "mic",
+            "noise",
+            "off",
+            "outline",
+            "sound",
+            "speaker",
+            "talk"
+        ]
+    },
+    {
+        "name": "mic-outline",
+        "tags": [
+            "mic",
+            "noise",
+            "outline",
+            "sound",
+            "speaker",
+            "talk"
+        ]
+    },
+    {
+        "name": "moon-outline",
+        "tags": [
+            "dark",
+            "moon",
+            "night",
+            "outline",
+            "sky"
+        ]
+    },
+    {
+        "name": "move-outline",
+        "tags": [
+            "move",
+            "outline"
+        ]
+    },
+    {
+        "name": "musical-note-outline",
+        "tags": [
+            "listening",
+            "musical",
+            "noise",
+            "note",
+            "outline",
+            "play",
+            "sound"
+        ]
+    },
+    {
+        "name": "musical-notes-outline",
+        "tags": [
+            "listening",
+            "musical",
+            "noise",
+            "notes",
+            "outline",
+            "play",
+            "sound"
+        ]
+    },
+    {
+        "name": "navigate-circle-outline",
+        "tags": [
+            "circle",
+            "gps",
+            "location",
+            "map",
+            "navigate",
+            "outline",
+            "pin"
+        ]
+    },
+    {
+        "name": "navigate-outline",
+        "tags": [
+            "gps",
+            "location",
+            "map",
+            "navigate",
+            "outline",
+            "pin"
+        ]
+    },
+    {
+        "name": "newspaper-outline",
+        "tags": [
+            "newspaper",
+            "outline"
+        ]
+    },
+    {
+        "name": "notifications-circle-outline",
+        "tags": [
+            "circle",
+            "notifications",
+            "outline"
+        ]
+    },
+    {
+        "name": "notifications-off-circle-outline",
+        "tags": [
+            "circle",
+            "notifications",
+            "off",
+            "outline"
+        ]
+    },
+    {
+        "name": "notifications-off-outline",
+        "tags": [
+            "notifications",
+            "off",
+            "outline"
+        ]
+    },
+    {
+        "name": "notifications-outline",
+        "tags": [
+            "notifications",
+            "outline"
+        ]
+    },
+    {
+        "name": "nuclear-outline",
+        "tags": [
+            "danger",
+            "hazard",
+            "nuclear",
+            "outline",
+            "warning"
+        ]
+    },
+    {
+        "name": "nutrition-outline",
+        "tags": [
+            "nutrition",
+            "outline"
+        ]
+    },
+    {
+        "name": "open-outline",
+        "tags": [
+            "open",
+            "outline"
+        ]
+    },
+    {
+        "name": "options-outline",
+        "tags": [
+            "options",
+            "outline"
+        ]
+    },
+    {
+        "name": "paper-plane-outline",
+        "tags": [
+            "outline",
+            "paper",
+            "plane"
+        ]
+    },
+    {
+        "name": "partly-sunny-outline",
+        "tags": [
+            "outline",
+            "partly",
+            "sunny"
+        ]
+    },
+    {
+        "name": "pause-circle-outline",
+        "tags": [
+            "break",
+            "circle",
+            "freeze",
+            "hold",
+            "music",
+            "outline",
+            "pause"
+        ]
+    },
+    {
+        "name": "pause-outline",
+        "tags": [
+            "break",
+            "freeze",
+            "hold",
+            "music",
+            "outline",
+            "pause"
+        ]
+    },
+    {
+        "name": "paw-outline",
+        "tags": [
+            "outline",
+            "paw"
+        ]
+    },
+    {
+        "name": "pencil-outline",
+        "tags": [
+            "outline",
+            "pencil"
+        ]
+    },
+    {
+        "name": "people-circle-outline",
+        "tags": [
+            "circle",
+            "head",
+            "human",
+            "outline",
+            "people",
+            "person",
+            "stalker",
+            "users"
+        ]
+    },
+    {
+        "name": "people-outline",
+        "tags": [
+            "head",
+            "human",
+            "outline",
+            "people",
+            "person",
+            "stalker",
+            "users"
+        ]
+    },
+    {
+        "name": "person-add-outline",
+        "tags": [
+            "add",
+            "head",
+            "human",
+            "member",
+            "new",
+            "outline",
+            "person",
+            "staff",
+            "users"
+        ]
+    },
+    {
+        "name": "person-circle-outline",
+        "tags": [
+            "circle",
+            "head",
+            "human",
+            "outline",
+            "person",
+            "staff",
+            "users"
+        ]
+    },
+    {
+        "name": "person-outline",
+        "tags": [
+            "head",
+            "human",
+            "outline",
+            "person",
+            "staff",
+            "users"
+        ]
+    },
+    {
+        "name": "person-remove-outline",
+        "tags": [
+            "outline",
+            "person",
+            "remove"
+        ]
+    },
+    {
+        "name": "phone-landscape-outline",
+        "tags": [
+            "landscape",
+            "outline",
+            "phone"
+        ]
+    },
+    {
+        "name": "phone-portrait-outline",
+        "tags": [
+            "outline",
+            "phone",
+            "portrait"
+        ]
+    },
+    {
+        "name": "pie-chart-outline",
+        "tags": [
+            "chart",
+            "outline",
+            "pie"
+        ]
+    },
+    {
+        "name": "pin-outline",
+        "tags": [
+            "gps",
+            "location",
+            "navigation",
+            "outline",
+            "pin"
+        ]
+    },
+    {
+        "name": "pint-outline",
+        "tags": [
+            "outline",
+            "pint"
+        ]
+    },
+    {
+        "name": "pizza-outline",
+        "tags": [
+            "drink",
+            "eat",
+            "food",
+            "outline",
+            "pizza"
+        ]
+    },
+    {
+        "name": "planet-outline",
+        "tags": [
+            "globe",
+            "home",
+            "nature",
+            "outline",
+            "planet",
+            "space",
+            "world"
+        ]
+    },
+    {
+        "name": "play-back-circle-outline",
+        "tags": [
+            "back",
+            "circle",
+            "left",
+            "outline",
+            "play"
+        ]
+    },
+    {
+        "name": "play-back-outline",
+        "tags": [
+            "back",
+            "left",
+            "outline",
+            "play"
+        ]
+    },
+    {
+        "name": "play-circle-outline",
+        "tags": [
+            "arrow",
+            "circle",
+            "music",
+            "outline",
+            "play",
+            "right",
+            "watch"
+        ]
+    },
+    {
+        "name": "play-forward-circle-outline",
+        "tags": [
+            "circle",
+            "forward",
+            "outline",
+            "play",
+            "right"
+        ]
+    },
+    {
+        "name": "play-forward-outline",
+        "tags": [
+            "forward",
+            "outline",
+            "play",
+            "right"
+        ]
+    },
+    {
+        "name": "play-outline",
+        "tags": [
+            "arrow",
+            "music",
+            "outline",
+            "play",
+            "right",
+            "watch"
+        ]
+    },
+    {
+        "name": "play-skip-back-circle-outline",
+        "tags": [
+            "back",
+            "circle",
+            "left",
+            "outline",
+            "play",
+            "skip"
+        ]
+    },
+    {
+        "name": "play-skip-back-outline",
+        "tags": [
+            "back",
+            "left",
+            "outline",
+            "play",
+            "skip"
+        ]
+    },
+    {
+        "name": "play-skip-forward-circle-outline",
+        "tags": [
+            "circle",
+            "forward",
+            "outline",
+            "play",
+            "right",
+            "skip"
+        ]
+    },
+    {
+        "name": "play-skip-forward-outline",
+        "tags": [
+            "forward",
+            "outline",
+            "play",
+            "right",
+            "skip"
+        ]
+    },
+    {
+        "name": "podium-outline",
+        "tags": [
+            "award",
+            "compete",
+            "competition",
+            "lose",
+            "outline",
+            "podium",
+            "win"
+        ]
+    },
+    {
+        "name": "power-outline",
+        "tags": [
+            "off",
+            "on",
+            "outline",
+            "power"
+        ]
+    },
+    {
+        "name": "pricetag-outline",
+        "tags": [
+            "$",
+            "commerce",
+            "items",
+            "money",
+            "outline",
+            "pricetag",
+            "shopping"
+        ]
+    },
+    {
+        "name": "pricetags-outline",
+        "tags": [
+            "$",
+            "commerce",
+            "items",
+            "money",
+            "outline",
+            "pricetags",
+            "shopping"
+        ]
+    },
+    {
+        "name": "print-outline",
+        "tags": [
+            "outline",
+            "print"
+        ]
+    },
+    {
+        "name": "prism-outline",
+        "tags": [
+            "outline",
+            "prism"
+        ]
+    },
+    {
+        "name": "pulse-outline",
+        "tags": [
+            "hot",
+            "live",
+            "outline",
+            "pulse",
+            "rate"
+        ]
+    },
+    {
+        "name": "push-outline",
+        "tags": [
+            "outline",
+            "push"
+        ]
+    },
+    {
+        "name": "qr-code-outline",
+        "tags": [
+            "code",
+            "outline",
+            "qr"
+        ]
+    },
+    {
+        "name": "radio-button-off-outline",
+        "tags": [
+            "button",
+            "off",
+            "outline",
+            "radio"
+        ]
+    },
+    {
+        "name": "radio-button-on-outline",
+        "tags": [
+            "button",
+            "on",
+            "outline",
+            "radio"
+        ]
+    },
+    {
+        "name": "radio-outline",
+        "tags": [
+            "music",
+            "outline",
+            "radio"
+        ]
+    },
+    {
+        "name": "rainy-outline",
+        "tags": [
+            "cloud",
+            "outline",
+            "rainy",
+            "water",
+            "weather",
+            "whether"
+        ]
+    },
+    {
+        "name": "reader-outline",
+        "tags": [
+            "outline",
+            "reader"
+        ]
+    },
+    {
+        "name": "receipt-outline",
+        "tags": [
+            "outline",
+            "receipt"
+        ]
+    },
+    {
+        "name": "recording-outline",
+        "tags": [
+            "film",
+            "outline",
+            "recording",
+            "tape",
+            "voicemail"
+        ]
+    },
+    {
+        "name": "refresh-circle-outline",
+        "tags": [
+            "circle",
+            "outline",
+            "refresh",
+            "reload",
+            "renew",
+            "reset"
+        ]
+    },
+    {
+        "name": "refresh-outline",
+        "tags": [
+            "outline",
+            "refresh"
+        ]
+    },
+    {
+        "name": "reload-circle-outline",
+        "tags": [
+            "circle",
+            "outline",
+            "reload"
+        ]
+    },
+    {
+        "name": "reload-outline",
+        "tags": [
+            "outline",
+            "reload"
+        ]
+    },
+    {
+        "name": "remove-circle-outline",
+        "tags": [
+            "circle",
+            "minus",
+            "outline",
+            "remove",
+            "subtract"
+        ]
+    },
+    {
+        "name": "remove-outline",
+        "tags": [
+            "outline",
+            "remove"
+        ]
+    },
+    {
+        "name": "reorder-four-outline",
+        "tags": [
+            "four",
+            "outline",
+            "reorder"
+        ]
+    },
+    {
+        "name": "reorder-three-outline",
+        "tags": [
+            "outline",
+            "reorder",
+            "three"
+        ]
+    },
+    {
+        "name": "reorder-two-outline",
+        "tags": [
+            "outline",
+            "reorder",
+            "two"
+        ]
+    },
+    {
+        "name": "repeat-outline",
+        "tags": [
+            "outline",
+            "repeat"
+        ]
+    },
+    {
+        "name": "resize-outline",
+        "tags": [
+            "outline",
+            "resize"
+        ]
+    },
+    {
+        "name": "restaurant-outline",
+        "tags": [
+            "eat",
+            "outline",
+            "restaurant"
+        ]
+    },
+    {
+        "name": "return-down-back-outline",
+        "tags": [
+            "back",
+            "down",
+            "left",
+            "outline",
+            "return"
+        ]
+    },
+    {
+        "name": "return-down-forward-outline",
+        "tags": [
+            "down",
+            "forward",
+            "outline",
+            "return",
+            "right"
+        ]
+    },
+    {
+        "name": "return-up-back-outline",
+        "tags": [
+            "back",
+            "left",
+            "outline",
+            "return",
+            "up"
+        ]
+    },
+    {
+        "name": "return-up-forward-outline",
+        "tags": [
+            "forward",
+            "outline",
+            "return",
+            "right",
+            "up"
+        ]
+    },
+    {
+        "name": "ribbon-outline",
+        "tags": [
+            "outline",
+            "ribbon"
+        ]
+    },
+    {
+        "name": "rocket-outline",
+        "tags": [
+            "outline",
+            "rocket"
+        ]
+    },
+    {
+        "name": "rose-outline",
+        "tags": [
+            "flower",
+            "outline",
+            "rose"
+        ]
+    },
+    {
+        "name": "sad-outline",
+        "tags": [
+            "bad",
+            "cry",
+            "no",
+            "outline",
+            "sad"
+        ]
+    },
+    {
+        "name": "save-outline",
+        "tags": [
+            "outline",
+            "save"
+        ]
+    },
+    {
+        "name": "scale-outline",
+        "tags": [
+            "outline",
+            "scale"
+        ]
+    },
+    {
+        "name": "scan-circle-outline",
+        "tags": [
+            "circle",
+            "outline",
+            "scan"
+        ]
+    },
+    {
+        "name": "scan-outline",
+        "tags": [
+            "outline",
+            "scan"
+        ]
+    },
+    {
+        "name": "school-outline",
+        "tags": [
+            "outline",
+            "school"
+        ]
+    },
+    {
+        "name": "search-circle-outline",
+        "tags": [
+            "circle",
+            "glass",
+            "magnifying",
+            "outline",
+            "search"
+        ]
+    },
+    {
+        "name": "search-outline",
+        "tags": [
+            "glass",
+            "magnifying",
+            "outline",
+            "search"
+        ]
+    },
+    {
+        "name": "send-outline",
+        "tags": [
+            "email",
+            "outline",
+            "paper",
+            "send"
+        ]
+    },
+    {
+        "name": "server-outline",
+        "tags": [
+            "outline",
+            "server"
+        ]
+    },
+    {
+        "name": "settings-outline",
+        "tags": [
+            "options",
+            "outline",
+            "settings"
+        ]
+    },
+    {
+        "name": "shapes-outline",
+        "tags": [
+            "outline",
+            "shapes"
+        ]
+    },
+    {
+        "name": "share-outline",
+        "tags": [
+            "outline",
+            "share"
+        ]
+    },
+    {
+        "name": "share-social-outline",
+        "tags": [
+            "outline",
+            "share",
+            "social"
+        ]
+    },
+    {
+        "name": "shield-checkmark-outline",
+        "tags": [
+            "checkmark",
+            "outline",
+            "shield"
+        ]
+    },
+    {
+        "name": "shield-half-outline",
+        "tags": [
+            "half",
+            "outline",
+            "shield"
+        ]
+    },
+    {
+        "name": "shield-outline",
+        "tags": [
+            "outline",
+            "shield"
+        ]
+    },
+    {
+        "name": "shirt-outline",
+        "tags": [
+            "outline",
+            "shirt"
+        ]
+    },
+    {
+        "name": "shuffle-outline",
+        "tags": [
+            "outline",
+            "shuffle"
+        ]
+    },
+    {
+        "name": "skull-outline",
+        "tags": [
+            "outline",
+            "skull"
+        ]
+    },
+    {
+        "name": "snow-outline",
+        "tags": [
+            "cold",
+            "outline",
+            "snow"
+        ]
+    },
+    {
+        "name": "sparkles-outline",
+        "tags": [
+            "outline",
+            "sparkles"
+        ]
+    },
+    {
+        "name": "speedometer-outline",
+        "tags": [
+            "drive",
+            "level",
+            "outline",
+            "speed",
+            "speedometer"
+        ]
+    },
+    {
+        "name": "square-outline",
+        "tags": [
+            "outline",
+            "square"
+        ]
+    },
+    {
+        "name": "star-half-outline",
+        "tags": [
+            "half",
+            "outline",
+            "star"
+        ]
+    },
+    {
+        "name": "star-outline",
+        "tags": [
+            "favorite",
+            "outline",
+            "star"
+        ]
+    },
+    {
+        "name": "stats-chart-outline",
+        "tags": [
+            "chart",
+            "outline",
+            "stats"
+        ]
+    },
+    {
+        "name": "stop-circle-outline",
+        "tags": [
+            "circle",
+            "outline",
+            "stop"
+        ]
+    },
+    {
+        "name": "stop-outline",
+        "tags": [
+            "outline",
+            "stop"
+        ]
+    },
+    {
+        "name": "stopwatch-outline",
+        "tags": [
+            "outline",
+            "stopwatch",
+            "time"
+        ]
+    },
+    {
+        "name": "storefront-outline",
+        "tags": [
+            "outline",
+            "storefront"
+        ]
+    },
+    {
+        "name": "subway-outline",
+        "tags": [
+            "outline",
+            "subway"
+        ]
+    },
+    {
+        "name": "sunny-outline",
+        "tags": [
+            "light",
+            "outline",
+            "sky",
+            "sunny",
+            "weather",
+            "whether"
+        ]
+    },
+    {
+        "name": "swap-horizontal-outline",
+        "tags": [
+            "horizontal",
+            "outline",
+            "swap"
+        ]
+    },
+    {
+        "name": "swap-vertical-outline",
+        "tags": [
+            "outline",
+            "swap",
+            "vertical"
+        ]
+    },
+    {
+        "name": "sync-circle-outline",
+        "tags": [
+            "circle",
+            "outline",
+            "sync"
+        ]
+    },
+    {
+        "name": "sync-outline",
+        "tags": [
+            "outline",
+            "sync"
+        ]
+    },
+    {
+        "name": "tablet-landscape-outline",
+        "tags": [
+            "landscape",
+            "outline",
+            "tablet"
+        ]
+    },
+    {
+        "name": "tablet-portrait-outline",
+        "tags": [
+            "outline",
+            "portrait",
+            "tablet"
+        ]
+    },
+    {
+        "name": "telescope-outline",
+        "tags": [
+            "outline",
+            "telescope"
+        ]
+    },
+    {
+        "name": "tennisball-outline",
+        "tags": [
+            "outline",
+            "tennisball"
+        ]
+    },
+    {
+        "name": "terminal-outline",
+        "tags": [
+            "outline",
+            "terminal"
+        ]
+    },
+    {
+        "name": "text-outline",
+        "tags": [
+            "outline",
+            "text"
+        ]
+    },
+    {
+        "name": "thermometer-outline",
+        "tags": [
+            "cold",
+            "heat",
+            "hot",
+            "mercury",
+            "outline",
+            "temperature",
+            "thermometer"
+        ]
+    },
+    {
+        "name": "thumbs-down-outline",
+        "tags": [
+            "down",
+            "outline",
+            "thumbs"
+        ]
+    },
+    {
+        "name": "thumbs-up-outline",
+        "tags": [
+            "outline",
+            "thumbs",
+            "up"
+        ]
+    },
+    {
+        "name": "thunderstorm-outline",
+        "tags": [
+            "cloudy",
+            "lightning",
+            "outline",
+            "overcast",
+            "rain",
+            "sky",
+            "storm",
+            "thunderstorm",
+            "weather",
+            "whether"
+        ]
+    },
+    {
+        "name": "ticket-outline",
+        "tags": [
+            "outline",
+            "ticket"
+        ]
+    },
+    {
+        "name": "time-outline",
+        "tags": [
+            "clock",
+            "hour",
+            "minute",
+            "outline",
+            "second",
+            "time",
+            "watch"
+        ]
+    },
+    {
+        "name": "timer-outline",
+        "tags": [
+            "clock",
+            "outline",
+            "timer"
+        ]
+    },
+    {
+        "name": "today-outline",
+        "tags": [
+            "outline",
+            "today"
+        ]
+    },
+    {
+        "name": "toggle-outline",
+        "tags": [
+            "outline",
+            "switch",
+            "toggle"
+        ]
+    },
+    {
+        "name": "trail-sign-outline",
+        "tags": [
+            "outline",
+            "sign",
+            "trail"
+        ]
+    },
+    {
+        "name": "train-outline",
+        "tags": [
+            "outline",
+            "train"
+        ]
+    },
+    {
+        "name": "transgender-outline",
+        "tags": [
+            "outline",
+            "transgender"
+        ]
+    },
+    {
+        "name": "trash-bin-outline",
+        "tags": [
+            "bin",
+            "outline",
+            "trash"
+        ]
+    },
+    {
+        "name": "trash-outline",
+        "tags": [
+            "close",
+            "delete",
+            "outline",
+            "remove",
+            "trash"
+        ]
+    },
+    {
+        "name": "trending-down-outline",
+        "tags": [
+            "down",
+            "outline",
+            "trending"
+        ]
+    },
+    {
+        "name": "trending-up-outline",
+        "tags": [
+            "outline",
+            "trending",
+            "up"
+        ]
+    },
+    {
+        "name": "triangle-outline",
+        "tags": [
+            "outline",
+            "triangle"
+        ]
+    },
+    {
+        "name": "trophy-outline",
+        "tags": [
+            "award",
+            "compete",
+            "competition",
+            "lose",
+            "outline",
+            "trophy",
+            "win"
+        ]
+    },
+    {
+        "name": "tv-outline",
+        "tags": [
+            "outline",
+            "television",
+            "tv"
+        ]
+    },
+    {
+        "name": "umbrella-outline",
+        "tags": [
+            "dry",
+            "outline",
+            "rain",
+            "shelter",
+            "umbrella",
+            "wet"
+        ]
+    },
+    {
+        "name": "unlink-outline",
+        "tags": [
+            "outline",
+            "unlink"
+        ]
+    },
+    {
+        "name": "videocam-off-outline",
+        "tags": [
+            "off",
+            "outline",
+            "videocam"
+        ]
+    },
+    {
+        "name": "videocam-outline",
+        "tags": [
+            "camera",
+            "film",
+            "movie",
+            "outline",
+            "videocam"
+        ]
+    },
+    {
+        "name": "volume-high-outline",
+        "tags": [
+            "high",
+            "outline",
+            "volume"
+        ]
+    },
+    {
+        "name": "volume-low-outline",
+        "tags": [
+            "low",
+            "outline",
+            "volume"
+        ]
+    },
+    {
+        "name": "volume-medium-outline",
+        "tags": [
+            "medium",
+            "outline",
+            "volume"
+        ]
+    },
+    {
+        "name": "volume-mute-outline",
+        "tags": [
+            "mute",
+            "outline",
+            "sound",
+            "volume"
+        ]
+    },
+    {
+        "name": "volume-off-outline",
+        "tags": [
+            "off",
+            "outline",
+            "volume"
+        ]
+    },
+    {
+        "name": "walk-outline",
+        "tags": [
+            "outline",
+            "walk"
+        ]
+    },
+    {
+        "name": "wallet-outline",
+        "tags": [
+            "cash",
+            "money",
+            "outline",
+            "wallet"
+        ]
+    },
+    {
+        "name": "warning-outline",
+        "tags": [
+            "outline",
+            "warning"
+        ]
+    },
+    {
+        "name": "watch-outline",
+        "tags": [
+            "outline",
+            "watch"
+        ]
+    },
+    {
+        "name": "water-outline",
+        "tags": [
+            "outline",
+            "water"
+        ]
+    },
+    {
+        "name": "wifi-outline",
+        "tags": [
+            "bars",
+            "connection",
+            "internet",
+            "outline",
+            "wifi"
+        ]
+    },
+    {
+        "name": "wine-outline",
+        "tags": [
+            "glass",
+            "outline",
+            "wine"
+        ]
+    },
+    {
+        "name": "woman-outline",
+        "tags": [
+            "dudette",
+            "female",
+            "girl",
+            "lady",
+            "outline",
+            "woman"
+        ]
+    }
+]
